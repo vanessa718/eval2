@@ -20,13 +20,6 @@ VALUES (1, 'equipment'),
 		(4, 'special');	
 
 
-INSERT INTO category_service
-VALUES (1, 'equipment'),
-		(2, 'well being'),
-		(3, 'meal'),
-		(4, 'special');	
-
-
 INSERT INTO customer (name, first_name, adress, mail, password, phone)
 VALUES ('Dupont', 'Pierre', '115 rue des Mésanges 18250 saint doulchard', 'dupont.pierre@gmail.com', 'xha45', '0690904323'),
 ('Durand', 'Maurice', '12 rue des Coquelicots 37000 tours', 'durand.m@yahoo.fr', 'ZER90', '0795831049'),
